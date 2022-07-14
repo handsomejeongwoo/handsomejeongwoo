@@ -1,5 +1,5 @@
-## Hi I'm Lee JeongWoo 👋
-
+# Hi I'm Lee JeongWoo 👋
+## I want to be a front-end developer 
 <!--
 **handsomejeongwoo/handsomejeongwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
