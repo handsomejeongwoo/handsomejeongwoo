@@ -1,6 +1,7 @@
 # Hi I'm Lee JeongWoo 👋
 ## I want to be a front-end developer 👨‍💻😂
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=handsomejeongwoo&show_icons=true&theme=dark)
+## nice
 <!--
 **handsomejeongwoo/handsomejeongwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
