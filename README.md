@@ -1,5 +1,6 @@
 # 안녕하세요 👋
 ## 프론트엔드 개발자가 되고 싶은 이정우 입니다 👨‍💻
+## 어제보다 더 발전된 나를 만들기 위해 항상 노력하고 있습니다.📈
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=handsomejeongwoo&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 <!--
