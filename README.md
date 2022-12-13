@@ -1,2 +1,2 @@
-<h1> Welcome,I'm Lee Jeong Woo👋</h1>
+<h1>프론트엔드 개발자가 되고싶은 이정우 입니다!</h1>
 <h2>김형록을 따라잡을 그때까지 Let's go</h2>
